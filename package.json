@@ -1,0 +1,23 @@
+{
+  "name": "subraphtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^2.1.4",
+    "@apollo/server": "^4.1.1",
+    "@apollo/subgraph": "^2.1.4",
+    "@pothos/core": "^3.22.9",
+    "@pothos/plugin-directives": "^3.8.4",
+    "@pothos/plugin-federation": "^3.6.4",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
